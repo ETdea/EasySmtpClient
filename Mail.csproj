@@ -7,8 +7,8 @@
     <ProjectGuid>{B94C175E-A692-4F0A-9490-DA8D23D5BE5C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SmtpClient</RootNamespace>
-    <AssemblyName>SmtpClient</AssemblyName>
+    <RootNamespace>System.Net.Mail</RootNamespace>
+    <AssemblyName>Mail</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
